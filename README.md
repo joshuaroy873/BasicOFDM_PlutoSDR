@@ -3,7 +3,7 @@
 A basic OFDM communication system for the ADALM Pluto SDR, created with GitHub Copilot assistance.
 
 ## Current Status
-⚠️ **Reception Quality**: Currently experiencing poor reception with ~1% data match rate due to RF channel conditions and 20dB attenuation.
+⚠️ **Reception Quality**: Currently experiencing poor reception with ~1% data match rate.
 
 ## What This Project Does
 - **OFDM Modulation**: 64-point FFT with QPSK modulation
